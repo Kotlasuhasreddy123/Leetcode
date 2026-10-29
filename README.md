@@ -12,4 +12,8 @@ Solutions to Leetcode problems
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
