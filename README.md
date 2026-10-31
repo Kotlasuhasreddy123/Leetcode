@@ -7,6 +7,7 @@ Solutions to Leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -24,6 +25,7 @@ Solutions to Leetcode problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 | Problem Name | Difficulty |
@@ -34,4 +36,12 @@ Solutions to Leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
