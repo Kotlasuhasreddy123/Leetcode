@@ -8,6 +8,7 @@ Solutions to Leetcode problems
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -30,6 +31,7 @@ Solutions to Leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 | Problem Name | Difficulty |
@@ -49,6 +51,7 @@ Solutions to Leetcode problems
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +60,8 @@ Solutions to Leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
