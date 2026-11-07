@@ -10,12 +10,14 @@ Solutions to Leetcode problems
 | [0485-max-consecutive-ones](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
@@ -71,4 +73,8 @@ Solutions to Leetcode problems
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0060-permutation-sequence) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
