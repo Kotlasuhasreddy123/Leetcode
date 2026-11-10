@@ -6,6 +6,7 @@ Solutions to Leetcode problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -78,4 +79,8 @@ Solutions to Leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
