@@ -6,6 +6,7 @@ Solutions to Leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -57,6 +58,7 @@ Solutions to Leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
