@@ -86,6 +86,7 @@ Solutions to Leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Dynamic Programming
@@ -96,4 +97,9 @@ Solutions to Leetcode problems
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kotlasuhasreddy123/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kotlasuhasreddy123/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
